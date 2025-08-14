@@ -66,3 +66,13 @@ Token: $YOURTOKEN_CA
 Amount: 1.5 SOL
 Transaction: https://solscan.io/tx/xxxxxxxx
 ```
+
+## Contact
+
+Discord: takhi777 in discord
+
+Telegram: [@Takhi](https://t.me/@hi_3333)
+
+## License
+
+ISC
