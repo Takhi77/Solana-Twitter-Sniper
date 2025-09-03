@@ -69,7 +69,7 @@ Transaction: https://solscan.io/tx/xxxxxxxx
 
 ## Contact
 
-Discord: takhi777 in discord
+Discord: pio_ne_er in discord
 
 Telegram: [@Takhi](https://t.me/@hi_3333)
 
